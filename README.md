@@ -15,7 +15,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Hermodesign/Huddle-landing-page.git)
+- Solution URL: [Add solution URL here](https://github.com/Hermodesign/3-column-p-card.git)
 
 ### Screenshot
 
